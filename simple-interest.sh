@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <tavaresoasislp>
+   # tavaresoasislp
 
    # Input:
    # p, principal amount
